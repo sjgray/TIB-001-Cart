@@ -1,0 +1,381 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L CONN_02X17 P2
+U 1 1 5759A76C
+P 1350 3050
+F 0 "P2" H 1350 3950 50  0000 C CNN
+F 1 "FLOPPY CONNECTOR" V 1350 3050 50  0000 C CNN
+F 2 "" H 1350 1950 50  0000 C CNN
+F 3 "" H 1350 1950 50  0000 C CNN
+	1    1350 3050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1100 2250 1000 2250
+Wire Wire Line
+	1000 2250 1000 4000
+Text GLabel 1000 4000 3    60   Input ~ 0
+GND
+Wire Wire Line
+	1100 3850 1000 3850
+Connection ~ 1000 3850
+Wire Wire Line
+	1100 3750 1000 3750
+Connection ~ 1000 3750
+Wire Wire Line
+	1100 3650 1000 3650
+Connection ~ 1000 3650
+Wire Wire Line
+	1100 3550 1000 3550
+Connection ~ 1000 3550
+Wire Wire Line
+	1100 3450 1000 3450
+Connection ~ 1000 3450
+Wire Wire Line
+	1100 3350 1000 3350
+Connection ~ 1000 3350
+Wire Wire Line
+	1100 3250 1000 3250
+Connection ~ 1000 3250
+Wire Wire Line
+	1100 3150 1000 3150
+Connection ~ 1000 3150
+Wire Wire Line
+	1100 3050 1000 3050
+Connection ~ 1000 3050
+Wire Wire Line
+	1100 2950 1000 2950
+Connection ~ 1000 2950
+Wire Wire Line
+	1100 2850 1000 2850
+Connection ~ 1000 2850
+Wire Wire Line
+	1100 2750 1000 2750
+Connection ~ 1000 2750
+Wire Wire Line
+	1100 2650 1000 2650
+Connection ~ 1000 2650
+Wire Wire Line
+	1100 2550 1000 2550
+Connection ~ 1000 2550
+Wire Wire Line
+	1100 2450 1000 2450
+Connection ~ 1000 2450
+Wire Wire Line
+	1100 2350 1000 2350
+Connection ~ 1000 2350
+$Comp
+L 74LS00 U?
+U 1 1 5759A947
+P 4575 1700
+F 0 "U?" H 4575 1750 50  0000 C CNN
+F 1 "74LS00" H 4575 1600 50  0000 C CNN
+F 2 "" H 4575 1700 50  0000 C CNN
+F 3 "" H 4575 1700 50  0000 C CNN
+	1    4575 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74LS00 U?
+U 2 1 5759A9C0
+P 4575 2200
+F 0 "U?" H 4575 2250 50  0000 C CNN
+F 1 "74LS00" H 4575 2100 50  0000 C CNN
+F 2 "" H 4575 2200 50  0000 C CNN
+F 3 "" H 4575 2200 50  0000 C CNN
+	2    4575 2200
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74LS00 U?
+U 3 1 5759AA29
+P 4575 2675
+F 0 "U?" H 4575 2725 50  0000 C CNN
+F 1 "74LS00" H 4575 2575 50  0000 C CNN
+F 2 "" H 4575 2675 50  0000 C CNN
+F 3 "" H 4575 2675 50  0000 C CNN
+	3    4575 2675
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74LS00 U?
+U 4 1 5759AAB2
+P 4575 3175
+F 0 "U?" H 4575 3225 50  0000 C CNN
+F 1 "74LS00" H 4575 3075 50  0000 C CNN
+F 2 "" H 4575 3175 50  0000 C CNN
+F 3 "" H 4575 3175 50  0000 C CNN
+	4    4575 3175
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74LS00 U?
+U 1 1 5759AB08
+P 4500 4525
+F 0 "U?" H 4500 4575 50  0000 C CNN
+F 1 "74LS00" H 4500 4425 50  0000 C CNN
+F 2 "" H 4500 4525 50  0000 C CNN
+F 3 "" H 4500 4525 50  0000 C CNN
+	1    4500 4525
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74LS00 U?
+U 2 1 5759AB7D
+P 4450 5125
+F 0 "U?" H 4450 5175 50  0000 C CNN
+F 1 "74LS00" H 4450 5025 50  0000 C CNN
+F 2 "" H 4450 5125 50  0000 C CNN
+F 3 "" H 4450 5125 50  0000 C CNN
+	2    4450 5125
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74LS00 U?
+U 3 1 5759ABA0
+P 4525 5625
+F 0 "U?" H 4525 5675 50  0000 C CNN
+F 1 "74LS00" H 4525 5525 50  0000 C CNN
+F 2 "" H 4525 5625 50  0000 C CNN
+F 3 "" H 4525 5625 50  0000 C CNN
+	3    4525 5625
+	1    0    0    -1  
+$EndComp
+$Comp
+L 74LS00 U?
+U 4 1 5759ABFF
+P 4600 6150
+F 0 "U?" H 4600 6200 50  0000 C CNN
+F 1 "74LS00" H 4600 6050 50  0000 C CNN
+F 2 "" H 4600 6150 50  0000 C CNN
+F 3 "" H 4600 6150 50  0000 C CNN
+	4    4600 6150
+	1    0    0    -1  
+$EndComp
+$Comp
+L 2764 U?
+U 1 1 5759ACA7
+P 7500 3875
+F 0 "U?" H 7250 4875 50  0000 C CNN
+F 1 "2764" H 7500 2875 50  0000 C CNN
+F 2 "" H 7500 3875 50  0000 C CNN
+F 3 "" H 7500 3875 50  0000 C CNN
+	1    7500 3875
+	1    0    0    -1  
+$EndComp
+$Comp
+L Crystal Y?
+U 1 1 5759AD12
+P 3150 1525
+F 0 "Y?" H 3150 1675 50  0000 C CNN
+F 1 "Crystal" H 3150 1375 50  0000 C CNN
+F 2 "" H 3150 1525 50  0000 C CNN
+F 3 "" H 3150 1525 50  0000 C CNN
+	1    3150 1525
+	1    0    0    -1  
+$EndComp
+Text Notes 7275 6950 0    197  ~ 39
+TIB-001 FDC Cart Clone
+$Comp
+L CONN_01X22 PTOP1
+U 1 1 5759B226
+P 9775 4000
+F 0 "PTOP1" H 9775 5150 50  0000 C CNN
+F 1 "CONN_01X22" V 9875 4000 50  0000 C CNN
+F 2 "" H 9775 4000 50  0000 C CNN
+F 3 "" H 9775 4000 50  0000 C CNN
+	1    9775 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_01X22 PBOT1
+U 1 1 5759B27D
+P 10125 4000
+F 0 "PBOT1" H 10125 5150 50  0000 C CNN
+F 1 "CONN_01X22" V 10225 4000 50  0000 C CNN
+F 2 "" H 10125 4000 50  0000 C CNN
+F 3 "" H 10125 4000 50  0000 C CNN
+	1    10125 4000
+	-1   0    0    -1  
+$EndComp
+Text GLabel 9575 2950 0    59   Input ~ 0
+GND
+Text GLabel 9575 3050 0    59   Input ~ 0
+5V
+Text GLabel 9575 3150 0    59   Input ~ 0
+5V
+Text GLabel 9575 3250 0    59   Input ~ 0
+~IRQ
+Text GLabel 9575 3350 0    59   Input ~ 0
+R/~W
+Text GLabel 9575 3450 0    59   Input ~ 0
+DOTCLOCK
+Text GLabel 9575 3550 0    59   Input ~ 0
+IO1
+Text GLabel 9575 3650 0    59   Input ~ 0
+GAME
+Text GLabel 9575 3750 0    59   Input ~ 0
+EXROM
+Text GLabel 9575 3850 0    59   Input ~ 0
+IO2
+Text GLabel 9575 3950 0    59   Input ~ 0
+ROML
+Text GLabel 9575 4050 0    59   Input ~ 0
+BA
+Text GLabel 9575 4150 0    59   Input ~ 0
+~DMA
+Text GLabel 9575 4250 0    59   BiDi ~ 0
+D7
+Text GLabel 9575 4350 0    59   BiDi ~ 0
+D6
+Text GLabel 9575 4450 0    59   BiDi ~ 0
+D5
+Text GLabel 9575 4550 0    59   BiDi ~ 0
+D4
+Text GLabel 9575 4650 0    59   BiDi ~ 0
+D3
+Text GLabel 9575 4750 0    59   BiDi ~ 0
+D2
+Text GLabel 9575 4850 0    59   BiDi ~ 0
+D1
+Text GLabel 9575 4950 0    59   BiDi ~ 0
+D0
+Text GLabel 9575 5050 0    59   Input ~ 0
+GND
+Text GLabel 10325 2950 2    59   Input ~ 0
+GND
+Text GLabel 10325 3050 2    59   Input ~ 0
+ROMH
+Text GLabel 10325 3150 2    59   Input ~ 0
+~RESET
+Text GLabel 10325 3250 2    59   Input ~ 0
+~NMI
+Text GLabel 10325 3350 2    59   Input ~ 0
+PHI2
+Text GLabel 10325 3450 2    59   Output ~ 0
+A15
+Text GLabel 10325 3550 2    59   Output ~ 0
+A14
+Text GLabel 10325 3650 2    59   Output ~ 0
+A13
+Text GLabel 10325 3750 2    59   Output ~ 0
+A12
+Text GLabel 10325 3850 2    59   Output ~ 0
+A11
+Text GLabel 10325 3950 2    59   Output ~ 0
+A10
+Text GLabel 10325 4050 2    59   Output ~ 0
+A9
+Text GLabel 10325 4150 2    59   Output ~ 0
+A8
+Text GLabel 10325 4250 2    59   Output ~ 0
+A7
+Text GLabel 10325 4350 2    59   Output ~ 0
+A6
+Text GLabel 10325 4450 2    59   Output ~ 0
+A5
+Text GLabel 10325 4550 2    59   Output ~ 0
+A4
+Text GLabel 10325 4650 2    59   Output ~ 0
+A3
+Text GLabel 10325 4750 2    59   Output ~ 0
+A2
+Text GLabel 10325 4850 2    59   Output ~ 0
+A1
+Text GLabel 10325 4950 2    59   Output ~ 0
+A0
+Text GLabel 10325 5050 2    59   Input ~ 0
+GND
+Text Notes 9450 2725 0    118  ~ 0
+CARTRIDGE\nPORT
+Text Notes 7050 2750 0    118  ~ 0
+EPROM
+Text Notes 825  1950 0    118  ~ 0
+FLOPPY DISK\nCONNECTOR
+Text GLabel 8200 3675 2    59   BiDi ~ 0
+D7
+Text GLabel 8200 3575 2    59   BiDi ~ 0
+D6
+Text GLabel 8200 3475 2    59   BiDi ~ 0
+D5
+Text GLabel 8200 3375 2    59   BiDi ~ 0
+D4
+Text GLabel 8200 3275 2    59   BiDi ~ 0
+D3
+Text GLabel 8200 3175 2    59   BiDi ~ 0
+D2
+Text GLabel 8200 3075 2    59   BiDi ~ 0
+D1
+Text GLabel 8200 2975 2    59   BiDi ~ 0
+D0
+Text GLabel 6800 4175 0    59   Input ~ 0
+A12
+Text GLabel 6800 4075 0    59   Input ~ 0
+A11
+Text GLabel 6800 3975 0    59   Input ~ 0
+A10
+Text GLabel 6800 3875 0    59   Input ~ 0
+A9
+Text GLabel 6800 3775 0    59   Input ~ 0
+A8
+Text GLabel 6800 3675 0    59   Input ~ 0
+A7
+Text GLabel 6800 3575 0    59   Input ~ 0
+A6
+Text GLabel 6800 3475 0    59   Input ~ 0
+A5
+Text GLabel 6800 3375 0    59   Input ~ 0
+A4
+Text GLabel 6800 3275 0    59   Input ~ 0
+A3
+Text GLabel 6800 3175 0    59   Input ~ 0
+A2
+Text GLabel 6800 3075 0    59   Input ~ 0
+A1
+Text GLabel 6800 2975 0    59   Input ~ 0
+A0
+NoConn ~ 6800 4275
+$EndSCHEMATC
