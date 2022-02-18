@@ -1,0 +1,32 @@
+Info: Backing up file 'C:\Users\Evan\Documents\GitHub\TIB-001-Cart\schematics\sym-lib-table' to 'C:\Users\Evan\Documents\GitHub\TIB-001-Cart\schematics\rescue-backup\sym-lib-table-2022-02-17-00-37-32'.
+Info: Backing up file 'C:\Users\Evan\Documents\GitHub\TIB-001-Cart\schematics\TIB-Clone.sch' to 'C:\Users\Evan\Documents\GitHub\TIB-001-Cart\schematics\rescue-backup\TIB-Clone-2022-02-17-00-37-32.sch'.
+Info: Backing up file 'C:\Users\Evan\Documents\GitHub\TIB-001-Cart\schematics\TIB-Clone.kicad_pro' to 'C:\Users\Evan\Documents\GitHub\TIB-001-Cart\schematics\rescue-backup\TIB-Clone-2022-02-17-00-37-32.kicad_pro'.
+Info: Backing up file 'C:\Users\Evan\Documents\GitHub\TIB-001-Cart\schematics\TIB-Clone-cache.lib' to 'C:\Users\Evan\Documents\GitHub\TIB-001-Cart\schematics\rescue-backup\TIB-Clone-cache-2022-02-17-00-37-32.lib'.
+Info: Backing up file 'C:\Users\Evan\Documents\GitHub\TIB-001-Cart\schematics\TIB-Clone-rescue.lib' to 'C:\Users\Evan\Documents\GitHub\TIB-001-Cart\schematics\rescue-backup\TIB-Clone-rescue-2022-02-17-00-37-32.lib'.
+Info: Backing up file 'C:\Users\Evan\Documents\GitHub\TIB-001-Cart\schematics\TIB-Clone-rescue.dcm' to 'C:\Users\Evan\Documents\GitHub\TIB-001-Cart\schematics\rescue-backup\TIB-Clone-rescue-2022-02-17-00-37-32.dcm'.
+Info: Adding library 'TIB-Clone-rescue', file '${KIPRJMOD}/TIB-Clone-rescue.lib' to project symbol library table.
+Symbol CONN_02X17 mapped to symbol library 'TIB-Clone-rescue'.
+Symbol 74LS00 mapped to symbol library 'TIB-Clone-rescue'.
+Symbol R mapped to symbol library 'TIB-Clone-rescue'.
+Symbol R mapped to symbol library 'TIB-Clone-rescue'.
+Symbol R mapped to symbol library 'TIB-Clone-rescue'.
+Symbol R mapped to symbol library 'TIB-Clone-rescue'.
+Symbol R mapped to symbol library 'TIB-Clone-rescue'.
+Symbol CP1 mapped to symbol library 'TIB-Clone-rescue'.
+Symbol CONN_01X22 mapped to symbol library 'TIB-Clone-rescue'.
+Symbol CONN_01X22 mapped to symbol library 'TIB-Clone-rescue'.
+Symbol 2764 mapped to symbol library 'TIB-Clone-rescue'.
+Symbol 74LS00 mapped to symbol library 'TIB-Clone-rescue'.
+Symbol 74LS00 mapped to symbol library 'TIB-Clone-rescue'.
+Symbol 74LS00 mapped to symbol library 'TIB-Clone-rescue'.
+Symbol Crystal mapped to symbol library 'TIB-Clone-rescue'.
+Symbol WD37C65 mapped to symbol library 'TIB-Clone-rescue'.
+Symbol C mapped to symbol library 'TIB-Clone-rescue'.
+Symbol C mapped to symbol library 'TIB-Clone-rescue'.
+Symbol 74LS00 mapped to symbol library 'TIB-Clone-rescue'.
+Symbol 74LS00 mapped to symbol library 'TIB-Clone-rescue'.
+Symbol 74LS00 mapped to symbol library 'TIB-Clone-rescue'.
+Symbol 74LS00 mapped to symbol library 'TIB-Clone-rescue'.
+Info: Symbol library table mapping complete!
+Info: Created project symbol library table.
+
